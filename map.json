@@ -167,7 +167,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"..\/test-pcr-workexperience\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -946,7 +946,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"..\/test-pcr-workexperience\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -969,7 +969,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"tileset1.png",
+         "image":"..\/test-pcr-workexperience\/tileset1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -982,7 +982,7 @@
         {
          "columns":18,
          "firstgid":577,
-         "image":"wateranimate2 - Copie.png",
+         "image":"..\/test-pcr-workexperience\/wateranimate2 - Copie.png",
          "imageheight":386,
          "imagewidth":576,
          "margin":0,
